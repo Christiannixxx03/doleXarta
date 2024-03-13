@@ -1,0 +1,308 @@
+/*style.css */
+@import url( 
+'https://fonts.googleapis.com/css2?family=Poppins&display=swap'); 
+  
+body { 
+    margin: 0;   
+    align-items:
+    justify-content: space-around; 
+    flex-direction: column; 
+    height: 100vh;
+    background-image: url('dolebuilding.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Poppins', sans-serif; 
+  
+} 
+  
+.textup { 
+    background-color: #fff; 
+    width: ;
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px; 
+    border-radius: 8px;
+} 
+  
+{ 
+    margin-right: 3px; 
+} 
+  
+.form-box1 { 
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px; 
+    border-radius: 8px; 
+    width: 800px;
+    text-align:;
+  } 
+  
+form { 
+    max-width: 1000px; 
+     
+} 
+  
+.radio-group { 
+    display: flex; 
+    margin-bottom: 16px; 
+} 
+  
+input[type="radio"] { 
+    margin-right: 8px; 
+} 
+  
+label { 
+    display: block; 
+    margin-bottom: 8px; 
+    font-size: 17px; 
+    color: black; 
+    font-weight: 600; 
+} 
+textarea{
+   resize: none;
+}
+  
+/*input, 
+textarea { 
+    width: 100%; 
+    padding: 8px; 
+    margin-bottom: 12px; 
+    box-sizing: border-box; 
+    border-radius: 10px; 
+  
+} */
+/*input[type="number"] {
+    margin-right: 500px;
+}*/
+
+button { 
+    background-color: #368b44; 
+    color: #fff; 
+    padding: 10px; 
+    border: none; 
+    border-radius: 25px; 
+    cursor: pointer; 
+    width: 100%; 
+    font-size: 15px; 
+    transition: .2s linear; 
+} 
+  
+button:hover { 
+    background-color: #0a6808; 
+    border: none; 
+    transform: translateY(-10px); 
+} 
+  
+h1 { 
+    color: black; 
+    display: flex; 
+    align-items: center; 
+    justify-content: space-around; 
+    flex-direction: column;
+}
+.hbg {
+    padding-top: px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: space-around; 
+    flex-direction: column;  
+    font-family: 'Poppins', sans-serif; 
+
+}
+.d1 {
+    background-color: #fff; 
+    width: ;
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px; 
+    border-radius: 8px;
+    
+}
+.d2 {
+    background-color: #fff; 
+    width: ;
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px; 
+    border-radius: 8px;
+    
+}
+.d3 {
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px;
+    width: ;
+    border-radius: 8px;
+     font-size: 14px;
+}
+.sect2 {
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px;
+    justify-content: center;
+    border-radius: 8px;
+     font-size: 14px;
+    
+}
+.section {
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px;
+    justify-content: center;
+    border-radius: 8px;
+     font-size: 14px;
+    
+
+}
+.q4 {
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 8px;
+     
+}
+.q5 {
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px;
+    justify-content: center;
+    text-align: ;
+    border-radius: 8px;
+    
+}
+.sqd0{
+     background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px;
+    justify-content: center;
+   
+    border-radius: 8px;
+     font-size: 14px;
+    
+}
+.sqd1{
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px;
+    justify-content: center;
+    border-radius: 8px;
+    font-size: 14px;
+    
+}
+.sqd2{
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px;
+    justify-content: center;
+    border-radius: 8px;
+    font-size: 14px;
+    
+}
+.sqd3{
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px;
+    justify-content: center;
+    border-radius: 8px;
+    font-size: 14px;
+    
+}
+.sqd4{
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px;
+    justify-content: center;
+    border-radius: 8px;
+    font-size: 14px;
+   
+}
+.sqd5{
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px;
+    justify-content: center;
+    border-radius: 8px;
+    font-size: 14px;
+    
+}
+.sqd6{
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px;
+    justify-content: center;
+    border-radius: 8px;
+    font-size: 14px;
+    
+}
+.sqd7{
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px;
+    justify-content: center;
+    border-radius: 8px;
+    font-size: 14px;
+    
+}
+.sqd8{
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px;
+    justify-content: center;
+    border-radius: 8px;
+    font-size: 14px;
+    color: black;
+}
+.feed{
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px;
+    justify-content: center;
+    border-radius: 8px;
+    font-size: 14px;
+    color: black;
+}
+.int{
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    padding: 15px;
+    justify-content: ;
+    border-radius: 8px;
+    font-size: 14px;
+    color: black;
+    width: 1000px;
+    position: absolute;
+    left: 120px;
+}
+.h2{
+    color: darkred;
+    width: 780px;
+    text-align: ;
+}
+.hidden {
+    display:none;
+  }
+  .dropdown {
+    padding: 20px;
+    height: 50px;
+  }
+  .servdiv{
+    padding: 30px;
+  }
+  select, input[type="text"] {
+        padding: 5px;
+        margin: 10px 0;
+    }
+ 
+ .date{
+    position: absolute;
+    background-color: #fff; 
+    box-shadow: 0 0 10px rgba(36, 67, 40, 0.8); 
+    
+    justify-content: center;
+    
+    font-size: 14px;
+    color: black;
+    height: 2px;
+    width: 125px;
+    left: 890px;
+    top: 1px;
+ }
